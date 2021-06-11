@@ -75,7 +75,7 @@ int main(void) {
 	TM_ILI9341_Init();
 	TM_ILI9341_Rotate(TM_ILI9341_Orientation_Landscape_2);
 	
-	//TM_ILI9341_Fill(ILI9341_COLOR_MAGENTA);
+//	TM_ILI9341_Fill(ILI9341_COLOR_MAGENTA);
 
 	/* Print on LCD */
 	TM_ILI9341_Puts(10, 10, "Olga Ivzhichenko", &TM_Font_11x18, ILI9341_COLOR_BLACK, ILI9341_COLOR_GREEN2);
