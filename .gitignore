@@ -1,3 +1,4 @@
 .cproject
 .vs/*
 .project
+.o/*
